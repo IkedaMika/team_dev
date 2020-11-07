@@ -843,5 +843,4 @@ export default {
     margin-left: 0.5rem;
   }
 }
-
 </style>
